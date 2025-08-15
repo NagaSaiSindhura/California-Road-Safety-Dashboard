@@ -109,5 +109,4 @@ Steps:
 
 **✅ Conclusion**
 
-A strategic, data-driven approach to road safety in California can help reduce injuries and fatalities. 
-Concentrating efforts on high-risk regions and dangerous time windows—combined with enforcement, infrastructure improvements, and targeted awareness—will make California’s roads safer for all.
+A strategic, data-driven approach to road safety in California can help reduce injuries and fatalities. Concentrating efforts on high-risk regions and dangerous time windows—combined with enforcement, infrastructure improvements, and targeted awareness will make California’s roads safer for all.
