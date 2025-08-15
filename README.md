@@ -2,7 +2,7 @@
 
 This project presents an exploratory analysis of road injuries in California, leveraging data visualization and BI tools to uncover patterns, trends, and actionable insights. The goal is to support data-driven decision-making that can help reduce accidents, casualties, and economic losses.
 
-**🎯 Business Problem******
+**🎯 Business Problem**
 
 California consistently records higher road accident rates compared to other US states. These accidents result in significant human and financial costs.
 
@@ -16,7 +16,7 @@ California consistently records higher road accident rates compared to other US 
 
 The project uses archival data to identify trends, patterns, and root causes to guide preventive strategies.
 
-****The analysis focuses on answering key decision-making questions:**
+**The analysis focuses on answering key decision-making questions:**
 
 1.Which modes of transportation cause the most casualties?
 
@@ -46,7 +46,7 @@ The dataset contains detailed information on road accidents in California, inclu
 
 7.totalpop – Total population in that region
 
-**🛠 Data Cleaning & Preparation****
+**🛠 Data Cleaning & Preparation**
 
 Data cleaning was performed using Python libraries:
 
@@ -81,7 +81,7 @@ Steps:
 
 **📌 Data-Driven Recommendations**
 
-**Night Driving Safety:****
+**Night Driving Safety:**
 
 1.Limit non-essential nighttime travel.
 
@@ -97,7 +97,7 @@ Steps:
 
 3.Launch awareness campaigns.
 
-****Further Analysis Opportunities:**
+**Further Analysis Opportunities:**
 
 1.Correlate accidents with weather data.
 
