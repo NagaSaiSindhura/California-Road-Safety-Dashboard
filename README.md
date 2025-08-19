@@ -1,4 +1,4 @@
-**Road Injuries in California – An Exploratory Analysis using BI Tools**
+## Road Injuries in California – An Exploratory Analysis using BI Tools
 
 This project presents an exploratory analysis of road injuries in California, leveraging data visualization and BI tools to uncover patterns, trends, and actionable insights. The goal is to support data-driven decision-making that can help reduce accidents, casualties, and economic losses.
 
