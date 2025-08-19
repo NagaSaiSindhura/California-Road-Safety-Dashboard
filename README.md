@@ -2,7 +2,7 @@
 
 This project presents an exploratory analysis of road injuries in California, leveraging data visualization and BI tools to uncover patterns, trends, and actionable insights. The goal is to support data-driven decision-making that can help reduce accidents, casualties, and economic losses.
 
-**🎯 Business Problem**
+**Business Problem**
 
 California consistently records higher road accident rates compared to other US states. These accidents result in significant human and financial costs.
 
@@ -28,7 +28,7 @@ The project uses archival data to identify trends, patterns, and root causes to 
 
 5.What are the severity levels and their distributions?
 
-**📂 Dataset Description**
+**Dataset Description**
 
 The dataset contains detailed information on road accidents in California, including:
 
@@ -46,7 +46,7 @@ The dataset contains detailed information on road accidents in California, inclu
 
 7.totalpop – Total population in that region
 
-**🛠 Data Cleaning & Preparation**
+**Data Cleaning & Preparation**
 
 Data cleaning was performed using Python libraries:
 
@@ -56,7 +56,7 @@ Data cleaning was performed using Python libraries:
 
 3.Dataset normalized for efficient visualization in Power BI.
 
-**🔗 Database Integration**
+** Database Integration**
 
 The cleaned dataset was stored in MySQL and connected to Power BI for dashboard creation.
 Steps:
@@ -67,7 +67,7 @@ Steps:
 
 3.Import and visualize data.
 
-**📊 Key Insights from Dashboards**
+** Key Insights from Dashboards**
 
 1.Cars cause more casualties than other transport modes.
 
@@ -79,7 +79,7 @@ Steps:
 
 5.Around 25% of casualties are fatal.
 
-**📌 Data-Driven Recommendations**
+**Data-Driven Recommendations**
 
 **Night Driving Safety:**
 
@@ -107,6 +107,6 @@ Steps:
 
 4.Evaluate severity patterns by time & location.
 
-**✅ Conclusion**
+**Conclusion**
 
 A strategic, data-driven approach to road safety in California can help reduce injuries and fatalities. Concentrating efforts on high-risk regions and dangerous time windows—combined with enforcement, infrastructure improvements, and targeted awareness will make California’s roads safer for all.
